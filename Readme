@@ -1,0 +1,6 @@
+1.created simple html css login sign up
+2.Web application built using the Flask framework, a lightweight web framework for Python. The application demonstrates basic user registration, login, and profile functionality, with data stored in a MongoDB database.
+3.Using Python library called pytest used for automation created a code seleniumtest.py to take values and insert into fields for automation.
+4. Respected screenshots saved for login and profile5. used mondo as database.
+
+*Additionally used SELENIUM IDE Extension on chrome*
